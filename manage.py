@@ -1,3 +1,18 @@
+"""
+Assignment: Module 4 Tutorial - Django Introduction
+Student Name: Asmaa Ali
+Course: SDVE220 - Full Stack Python Development
+Date: April 14, 2025
+
+Description:
+This project follows the official Django tutorial to demonstrate 
+basic setup and functionality of a Django web application, 
+including models, views, templates, and admin configuration.
+
+Repository: https://github.com/asmaayasser1/django-tutorial
+"""
+
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
